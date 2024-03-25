@@ -11,12 +11,13 @@ It shall NOT be edited by hand.
 
 *[Read this README is other languages.](./ALL_README.md)*
 
-> *This package allows you to install GoToSocial quickly and simply on a YunoHost server.
-If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/install) to learn how to install it.*
+> *This package allows you to install GoToSocial quickly and simply on a YunoHost server.*  
+> *If you don't have YunoHost, please consult [the guide](https://yunohost.org/install) to learn how to install it.*
 
 ## Overview
 
 Fast ActivityPub social network server written in Go and change the description
+
 **Shipped version:** 0.13.3~ynh1
 ## :red_circle: Antifeatures
 
@@ -34,10 +35,9 @@ Fast ActivityPub social network server written in Go and change the description
 
 ## Developer info
 
-Please send your pull request to the [testing branch](https://github.com/YunoHost-Apps/gotosocial_ynh/tree/testing),
+Please send your pull request to the [`testing` branch](https://github.com/YunoHost-Apps/gotosocial_ynh/tree/testing).
 
-
-To try the testing branch, please proceed like that:
+To try the `testing` branch, please proceed like that:
 
 ```bash
 sudo yunohost app install https://github.com/YunoHost-Apps/gotosocial_ynh/tree/testing --debug
