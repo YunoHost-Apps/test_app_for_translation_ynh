@@ -4,7 +4,7 @@ packaging_format = 2
 
 id = "gotosocial"
 name = "GoToSocial"
-description.en = "Fast ActivityPub social network server written in Go"
+description.en = "Fast ActivityPub social network server written in Go and change the description"
 description.fr = "Serveur de réseau social véloce basé sur ActivityPub écrit en Go"
 
 version = "0.13.3~ynh1"
