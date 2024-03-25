@@ -5,6 +5,7 @@ packaging_format = 2
 id = "gotosocial"
 name = "GoToSocial"
 description.en = "Fast ActivityPub social network server written in Go and change the description"
+description.nl = "Een snel Activity social netvork server schrijkt een Go en banaan"
 description.fr = "Serveur de réseau social véloce basé sur ActivityPub écrit en Go"
 
 version = "0.13.3~ynh1"
@@ -61,8 +62,10 @@ default = false
 
 [install.accounts_approval_required]
 ask.en = "Registration approval?"
+ask.nl = "Goedkeuring registratie?"
 ask.fr = "Vérification manuelle des inscriptions ?"
 help.en = "Do sign up requests require approval from an admin/moderator before an account can sign in/use the server?"
+help.nl = "Moeten aanmeldingsverzoeken worden goedgekeurd door een beheerder/moderator voordat een account zich kan aanmelden/gebruiken op de server?"
 help.fr = "Les demandes d'inscription doivent-elles être approuvées par un-e administrateur-ice/modérateur-ice avant qu'un compte puisse se connecter et utiliser le serveur ?"
 type = "boolean"
 default = true
