@@ -16,7 +16,7 @@ If you don't have YunoHost, please consult [the guide](https://yunohost.org/#/in
 
 ## Overview
 
-Fast ActivityPub social network server written in Go
+Fast ActivityPub social network server written in Go and change the description
 **Shipped version:** 0.13.3~ynh1
 ## :red_circle: Antifeatures
 
